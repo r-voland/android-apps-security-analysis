@@ -1,3 +1,10 @@
+/*
+Kotlin.
+Require external dependencies: 
+implementation("org.bitbucket.b_c:jose4j:0.9.4")
+implementation("org.slf4j:slf4j-simple:2.0.9")
+*/
+
 import org.jose4j.base64url.Base64
 import org.jose4j.jwe.JsonWebEncryption
 import org.jose4j.jws.JsonWebSignature
