@@ -4,7 +4,7 @@
 confJavaJdkPath=/usr/lib/jvm/jdk1.8.0_361/bin/
 confApkToolPath=/usr/bin/apktool
 confKeystorePath=/home/user/Keystore/androidpersonal.keystore
-confKeyParameters="--ks-pass pass:qWERTY123456 --v1-signing-enabled true --v2-signing-enabled"
+confKeyParameters="--ks-pass pass:P@ssw0rd --v1-signing-enabled true --v2-signing-enabled"
 confZipAlignPath=/home/user/Android/Sdk/build-tools/32.0.0/zipalign
 confApkSignerPath=/home/user/Apksigner/apksigner
 ### Variables:
