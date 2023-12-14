@@ -2,7 +2,7 @@
 
  ###  **1. JweDecoder.kt**
  
- This [code](https://github.com/r-voland/android-apps-security-analysis/blob/main/JweDecoder.kt) will help you to **decrypt Google Play Intrgrity Service verdict** without using network Google API requests.
+ This [Kotlin code](https://github.com/r-voland/android-apps-security-analysis/blob/main/JweDecoder.kt) will help you to **decrypt Google Play Intrgrity Service verdict** without using network Google API requests.
  Of cause, in this case you must have decryption and verification keys.
 
  > [!IMPORTANT]
@@ -14,7 +14,7 @@
 
  ###  **2. apk_build_align_sign.sh** 
  
- This [script](https://github.com/r-voland/android-apps-security-analysis/blob/main/apk_build_align_sign.sh) will help you to automatize build, align and sign procedures.
+ This [Linux bash script](https://github.com/r-voland/android-apps-security-analysis/blob/main/apk_build_align_sign.sh) will help you to automatize build, align and sign procedures.
 
  > [!NOTE]
  > In-Script variables:
@@ -32,7 +32,7 @@
 
  ###  **3. RenameAppId.kt** 
  
- This [code](https://github.com/r-voland/android-apps-security-analysis/blob/main/ReanameAppId.kt) will help you to rename App's packet id after APK file has been decompiled.
+ This [Kotlin code](https://github.com/r-voland/android-apps-security-analysis/blob/main/ReanameAppId.kt) will help you to rename App's packet id after APK file has been decompiled.
  
 What this script do:
   > [!IMPORTANT]
